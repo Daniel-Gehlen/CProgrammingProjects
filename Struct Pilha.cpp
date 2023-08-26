@@ -52,8 +52,8 @@ void imprimePilha(PILHA *p){
         while(ptr != 0){
             cout << ptr->dado;
             ptr = ptr->prox;
+            printf("\n");
         }
-        printf("\n");
     }
 }
 
