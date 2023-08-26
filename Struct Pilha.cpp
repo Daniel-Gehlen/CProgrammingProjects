@@ -52,7 +52,7 @@ void imprimePilha(PILHA *p){
         while(ptr != 0){
             cout << ptr->dado;
             ptr = ptr->prox;
-            printf("\n");
+            printf("\n"); //Aqui colocar printf("\n") para quebra de linha dos membros da pilha
         }
     }
 }
