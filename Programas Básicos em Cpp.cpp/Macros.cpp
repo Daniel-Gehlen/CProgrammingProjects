@@ -1,0 +1,20 @@
+#include <iostream>
+#include <string.h>
+
+using namespace std;
+
+
+#define PI 3.14159
+#define DOIS_PI 2 * PI //Aqui utilizei o PI novamente
+#define AREA_CIRCULO(raio) raio * raio * PI //Escrevo a macro em letras maiúsculas e entre parenteses informo os valores que quero passar p essa macro.
+                                            // Aqui to dizendo q a AREA_CIRCULO recebendo o valor de raio é igual a raio * raio * PI
+int main(){
+    cout << endl << PI;
+    cout <<  endl << DOIS_PI;
+    cout <<  endl << AREA_CIRCULO(10); //Paço o valor para a macro (raio) com o qual fará a operação
+
+    getchar();
+
+    return 0;
+
+}
