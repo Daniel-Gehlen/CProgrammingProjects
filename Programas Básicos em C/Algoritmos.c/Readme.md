@@ -1,33 +1,39 @@
 ```mermaid
 
-flowchart LR
+graph TD
     subgraph Entrada
         A[Usuário insere valores]
     end
 
     subgraph PreenchendoVetor
-        B[Laço de repetição - for]
+        B["for (i=0; i < N; i++)"]
     end
 
     subgraph BubbleSort
-        C[1º Laço de repetição - count]
-        D[2º Laço de repetição _ i]
-        E[Verificação - if]
+        C["for (count=1; count < N; count++)"]
+        D["for (i=0; i < N-1; i++)"]
+        E["if (lista[i] > lista[i+1])"]
         F[Troca de Valores]
     end
 
     subgraph Exibicao
-        G[Laço de repetição - for]
+        G["for (i=0; i < N; i++)"]
+    end
+
+    subgraph Fim
+        H[printf]
     end
 
     A -->|Valores| B
     B -->|Vetor preenchido| C
-    C -->|Iterações| D
     D -->|Índices| E
     E -->|Troca necessária| F
     F -->|Valores trocados| D
     E -->|Continuar| D
     C -->|Ordenado| G
+    G -->|Números ordenados| H
+
+
 
 
 
