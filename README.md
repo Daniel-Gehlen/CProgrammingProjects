@@ -31,7 +31,6 @@ Em busca de melhorias constante.
 - Preenchendo Vetor e Dobrando os Valores
 
 ## Pequenos Programas
-- Programas Curtos
 - Calcular a Maioridade
 - Calcular a Metragem de um Terreno
 - Calcular a Potenciação
