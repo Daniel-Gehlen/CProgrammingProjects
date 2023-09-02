@@ -1,4 +1,8 @@
-# Portifólio de C e C++: Básico
+# Portfólio - Matérias em que tenho conhecimentos em C e C++
+
+## Todos os tópicos a seguir estão codificados e testados nas pastas.
+
+Em busca de melhorias constante.
 
 ## Algoritmos
 - Algoritmo Bubble Sort
