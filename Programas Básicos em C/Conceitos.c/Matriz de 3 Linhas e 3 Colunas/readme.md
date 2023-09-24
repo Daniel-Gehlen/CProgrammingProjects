@@ -1,3 +1,10 @@
+# Matriz de 3 Linhas e 3 Colunas... :
+
+- Pode ser parte de um programa que cria e manipula uma matriz 3x3 em C.
+- Envolve entrada de dados para os elementos da matriz.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Matriz
