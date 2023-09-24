@@ -1,3 +1,10 @@
+# Código de Manipulação de Ponteiros em Vetor:
+
+- Trabalhar com ponteiros para acessar e modificar elementos de um vetor.
+- Demonstração de como um ponteiro pode ser usado para acessar e alterar valores em posições específicas de um vetor.
+
+## Fluxograma do Código 
+
 ``` mermaid
 graph TD
     subgraph Main
