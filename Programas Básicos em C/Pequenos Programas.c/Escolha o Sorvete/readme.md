@@ -1,3 +1,10 @@
+# Escolha o Sorvete... :
+
+- É o início de um programa que permite ao usuário escolher sorvetes.
+- Envolve um menu de opções para sabores de sorvete.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
