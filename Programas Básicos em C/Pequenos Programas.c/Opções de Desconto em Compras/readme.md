@@ -1,3 +1,12 @@
+# Código de Desconto em Compras:
+
+- Utiliza estruturas de controle switch-case para criar um sistema de descontos com base em opções.
+- Faz leitura de valores de entrada com scanf.
+- Implementa um sistema simples de desconto com três opções diferentes.
+- Tem formatação de saída correta.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
