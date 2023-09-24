@@ -1,3 +1,11 @@
+# Código de Procurar Valor em Lista Ligada:
+
+- Manipulação de listas ligadas.
+- Implementação de uma função para procurar um valor em uma lista ligada e retornar um endereço de memória se encontrado.
+- Criação manual de uma lista ligada e chamada de função de pesquisa.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Struct
