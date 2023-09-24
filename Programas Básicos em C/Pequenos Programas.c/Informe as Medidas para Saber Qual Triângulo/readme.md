@@ -1,3 +1,10 @@
+# Informe as Medidas para obter um Triângulo...:
+
+- Não é um código completo, mas pode ser um início para uma aplicação que solicita informações para formar um triângulo.
+- Deve haver entrada de dados do usuário para as medidas de diferentes triângulos.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
