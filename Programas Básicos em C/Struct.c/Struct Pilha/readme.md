@@ -1,3 +1,11 @@
+# Código de Pilha Implementada com Ponteiros e Alocação Dinâmica:
+
+- Manipulação de ponteiros e alocação dinâmica.
+- Implementação de uma estrutura de pilha, incluindo operações de empilhar, desempilhar e imprimir.
+- Tratamento de erros ao tentar alocar memória e ao desempilhar de uma pilha vazia.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
 A[main] --> B[inicializaPilha--p1--]
