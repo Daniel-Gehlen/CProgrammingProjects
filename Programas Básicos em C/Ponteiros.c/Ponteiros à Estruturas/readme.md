@@ -1,3 +1,11 @@
+# Código de Ponteiro para Struct de Horário:
+
+- Manipula structs e ponteiros em C.
+- Criaça uma struct horario e manipula seus membros usando ponteiros.
+- Acessa e modifica valores de membros da struct através de ponteiros.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
