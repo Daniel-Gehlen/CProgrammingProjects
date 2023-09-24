@@ -1,3 +1,10 @@
+# Código do Orçamento para Viajar:
+
+- Verifica o orçamento para determinar se uma viagem é internacional ou nacional.
+- Usa estruturas condicionais if-else para tomar decisões com base em valores.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
