@@ -1,3 +1,9 @@
+# Cálculo: desconto salário... :
+
+- Parte de um programa que realiza cálculos de desconto no salário de um usuário com base em uma lógica específica.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
