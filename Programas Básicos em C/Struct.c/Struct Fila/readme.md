@@ -1,3 +1,11 @@
+# Código de Fila Implementada com Ponteiros e Alocação Dinâmica:
+
+- Alocação dinâmica de memória e uso de ponteiros.
+- Implementação de uma estrutura de fila usando structs e ponteiros, incluindo operações de enfileirar, desenfileirar e imprimir.
+- Tratamento de erros ao tentar alocar memória e ao desenfileirar de uma fila vazia.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
 A[main] --> B[inicializaFila--f1--]
