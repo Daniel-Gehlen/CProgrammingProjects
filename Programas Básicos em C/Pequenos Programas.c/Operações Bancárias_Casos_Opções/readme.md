@@ -1,3 +1,11 @@
+# O Código (Operações Bancárias):
+
+- Usa loops do-while e estruturas de controle switch-case para criar um menu de operações bancárias.
+- Usa printf e scanf para entrada e saída de dados.
+- Implementa operações bancárias, como depósito, saque e verificação de saldo.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
