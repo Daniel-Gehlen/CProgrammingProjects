@@ -1,3 +1,9 @@
+# Cadastro de Músicas... :
+
+- Não é um código completo, mas sugere uma aplicação para cadastrar informações sobre músicas, como título, artista, gênero, etc.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
