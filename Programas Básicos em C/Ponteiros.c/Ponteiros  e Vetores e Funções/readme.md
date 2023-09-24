@@ -1,3 +1,10 @@
+# Código de Somar Vetor com Ponteiros:
+
+- Utilização de ponteiros para somar elementos de um vetor.
+- Usar ponteiros para percorrer um vetor e calcular a soma dos elementos.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
