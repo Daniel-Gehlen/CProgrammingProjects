@@ -1,3 +1,9 @@
+# Contagem Regressiva -1... :
+
+- Não é um código completo, mas sugere uma contagem regressiva que pode ser usada em diferentes contextos, como temporizadores.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
