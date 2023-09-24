@@ -1,3 +1,10 @@
+# Cálculo da média entre três idades... :
+
+- É um trecho de código que calcula a média de três idades.
+- Inclui solicitação de entrada de idade.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
