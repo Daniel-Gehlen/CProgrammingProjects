@@ -1,3 +1,11 @@
+# Código de Manipulação de Variáveis e Ponteiros:
+
+- Manipulação de variáveis e ponteiros em funções.
+- Compreensão da diferença entre passagem de variáveis por valor e por referência usando ponteiros.
+- Modificação direta de variáveis dentro de uma função quando passadas por referência.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
