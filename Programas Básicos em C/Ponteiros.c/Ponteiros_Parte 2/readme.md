@@ -1,3 +1,10 @@
+# Código de Ponteiro para Variável Simples:
+
+- Declaração de um ponteiro para uma variável e atribuição de valor a essa variável usando o ponteiro.
+- Utilização de ponteiros para acessar e modificar o conteúdo de variáveis.
+
+## Fluxograma do Código
+
 ``` mermaid
 
 graph TD
