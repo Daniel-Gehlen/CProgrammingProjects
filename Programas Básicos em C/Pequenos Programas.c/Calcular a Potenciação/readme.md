@@ -1,3 +1,10 @@
+# Calcular a Potenciação... :
+
+- É um fragmento de código que realiza cálculos de potenciação.
+- Solicita a base e o expoente como entrada.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
