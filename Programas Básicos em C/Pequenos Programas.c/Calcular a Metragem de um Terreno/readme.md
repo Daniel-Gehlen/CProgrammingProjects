@@ -1,3 +1,10 @@
+# Calcular a Metragem de um Terreno... :
+
+- Parte de um programa que calcula a metragem de um terreno com base em suas dimensões.
+- Envolve entrada de dados para largura e comprimento.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
