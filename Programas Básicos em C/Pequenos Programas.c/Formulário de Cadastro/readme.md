@@ -1,3 +1,10 @@
+# Formulário de Cadastro... :
+
+- Não é um código completo, mas pode ser um início para um formulário de cadastro.
+- Inclui campos para entrada de informações pessoais.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
