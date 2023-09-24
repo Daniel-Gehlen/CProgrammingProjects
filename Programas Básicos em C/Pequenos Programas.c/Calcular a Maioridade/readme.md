@@ -1,3 +1,10 @@
+# Calcular a Maioridade... :
+
+- É um trecho de código que determina a maioridade com base na idade fornecida.
+- Inclui entrada de idade e verificação de maioridade.
+
+## Fluxograma do Código
+
 ``` mermaid
 graph TD
     subgraph Main
